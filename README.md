@@ -19,5 +19,7 @@ Also, User can add the movie to their favorite movie list. In the list, it will 
 
 User can click the movie name in their favorite movie list to write comments for each movie.
 
+<img src="https://github.com/ohohRain/iOS-MovieApp/blob/main/Screen%20Shot%202021-11-17%20at%205.47.18%20PM.png" width="250" height="500">
+
 
 
